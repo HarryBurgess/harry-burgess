@@ -12,7 +12,7 @@
  */
 
 /**
- * Root directory of Drupal installation. TESTES
+ * Root directory of Drupal installation.
  */
 define('DRUPAL_ROOT', getcwd());
 
