@@ -12,7 +12,7 @@
  */
 
 /**
- * Root directory of Drupal installation. Term
+ * Root directory of Drupal installation.
  */
 define('DRUPAL_ROOT', getcwd());
 
